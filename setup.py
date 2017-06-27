@@ -14,7 +14,7 @@ setup(
     license='MIT',
     install_requires=[
         "cython>=0.24.0",
-        "cystatsd>=1.0.2"
+        "ql-cystatsd>=1.1.0"
     ],
     packages=[
         'aiostatsd'
